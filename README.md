@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grandpasoul
 - 👀 I’m interested in books, movies, comics and music
-- 🌱 I’m currently learning flutter & fastapi
+- 🌱 I’m currently learning flutter & react native
 - 💞️ I’m looking to collaborate on mobile dev
 - 📫 Write me @ gonletedo@gmail.com
 
